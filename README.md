@@ -1,5 +1,5 @@
 # Singly Linked List
-Singly Linked List implementation with Java without using Java built in List interface
+Singly Linked List implementation with Java without using built in List interface
 
 This implementation include functions below:
 
